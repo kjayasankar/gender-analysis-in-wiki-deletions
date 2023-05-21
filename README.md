@@ -1,6 +1,6 @@
 # gender-analysis-in-wiki-deletions
 
-This repository contains a Jupyter notebook demonstrating a data analysis project that investigates gender bias in Wikipedia.
+This repository contains a Jupyter notebook demonstrating a data analysis project that investigates gender bias in Wikipedia articles that was proposed for deletion.
 
 ## Notebook - Wiki_Gender_Bias.ipynb
 
